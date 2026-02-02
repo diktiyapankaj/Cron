@@ -2,8 +2,8 @@ import time
 import requests
 from telegram import Bot
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
+BOT_TOKEN = "8397089498:AAFPE2NhTfVM22XdkOGOQRFHejd0yxrggj8"
+CHAT_ID = "1139295957"
 API_URL = "https://example.com/api"
 
 bot = Bot(token=BOT_TOKEN)
